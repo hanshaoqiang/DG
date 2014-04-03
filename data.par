@@ -1,0 +1,21 @@
+5 
+3 
+40
+1
+0
+1
+1
+1.0
+1
+/*
+iOrder
+iRK
+iElem
+iLength
+iStart
+iFinish
+iTest
+iTime
+flowcomp - 1 advection, 2 euler, 3 navier, 4 mhd
+*/
+
